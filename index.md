@@ -1,4 +1,7 @@
 ## Table of content
+
+[test](#hello-my-name-is-yilin-song)
+
 Alex's profile picture: [https://github.com/yis004/cse110/blob/main/index.md#hello-my-name-is-yilin-song]
 
 Background story of my coding passion: [https://github.com/yis004/cse110/blob/main/index.md#background-story-of-my-coding-passion]
