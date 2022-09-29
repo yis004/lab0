@@ -11,7 +11,7 @@ Things that give Alex a headache: [https://github.com/yis004/cse110/blob/main/in
 
 Alex's 2022 Wish List: [https://github.com/yis004/cse110/blob/main/index.md#alexs-2022-wish-list]
 
-Here is the link to READ.MD file: [Link]:(README.MD)
+A Wishing Fish image that is actually magical: [Wishing-Fish.jpg]
 
 
 # Hello, my name is Yilin Song
