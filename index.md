@@ -1,20 +1,18 @@
 ## Table of content
 
-[test](#hello-my-name-is-yilin-song)
+[Alex's profile picture](#hello-my-name-is-yilin-song)
 
-Alex's profile picture: [https://github.com/yis004/cse110/blob/main/index.md#hello-my-name-is-yilin-song]
+[Background story of my coding passion](#background-story-of-my-coding-passion)
 
-Background story of my coding passion: [https://github.com/yis004/cse110/blob/main/index.md#background-story-of-my-coding-passion]
+[Alex's side interests](#alexs-side-interests)
 
-Alex's side interests: [https://github.com/yis004/cse110/blob/main/index.md#alexs-side-interests]
+[Alex's favorite activities (rank from TOP to BUTTOM)](#alexs-favorite-activities-rank-from-top-to-buttom)
 
-Alex's favorite activities (rank from TOP to BUTTOM): [https://github.com/yis004/cse110/blob/main/index.md#alexs-favorite-activities-rank-from-top-to-buttom]
+[Things that give Alex a headache](#things-that-give-alex-a-headache)
 
-Things that give Alex a headache: [https://github.com/yis004/cse110/blob/main/index.md#things-that-give-alex-a-headache]
+[Alex's 2022 Wish List](#alexs-2022-wish-list)
 
-Alex's 2022 Wish List: [https://github.com/yis004/cse110/blob/main/index.md#alexs-2022-wish-list]
-
-A Wishing Fish image that is actually magical: [Wishing-Fish.jpg]
+[A Wishing Fish image that is actually magical](https://github.com/yis004/lab0/blob/VSCode/Wishing-Fish.jpg)
 
 
 # Hello, my name is Yilin Song
