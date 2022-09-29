@@ -45,7 +45,7 @@ When I entered college, I realized that a veteran coder cares about many differe
 Therefore, my new goal is to write GOOD programs that run fast and efficiently. And I follow the Steve Jobs quote: 
 >“Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.”
 
-Source: [https://www.uschamber.com/co/start/strategy/steve-jobs-quotes-for-business-owners]
+[Source where I found the quote](https://www.uschamber.com/co/start/strategy/steve-jobs-quotes-for-business-owners)
 
 ## Alex's side interests
 
